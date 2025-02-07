@@ -1,0 +1,23 @@
+body { 
+    margin: 0; 
+    background: #000000;
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
+canvas { 
+    display: block; 
+}
+
+#info {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: rgba(22, 21, 21, 0.8);
+    background: rgba(253, 253, 253, 0.3);
+    padding: 15px;
+    border-radius: 8px;
+    z-index: 100;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+} 
