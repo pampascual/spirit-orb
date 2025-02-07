@@ -17,4 +17,4 @@ An interactive 3D visualization that combines THREE.js with speech recognition a
 ## Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/spirit-orb.git
+git clone https://github.com/pampascual/spirit-orb.git
